@@ -1,8 +1,15 @@
 # Super Type Token Example
 ## Test Case Code
 1. [Custom Super Type Token Example](https://github.com/libedi/super-type-token-sample/blob/master/demo-super-type-token/src/test/java/com/example/demo/CustomSuperTypeTokenTest.java)
+    - [SimpleTypeSafeMap.java](https://github.com/libedi/super-type-token-sample/blob/master/demo-super-type-token/src/main/java/com/example/demo/SimpleTypeSafeMap.java)
+    - [Super.java](https://github.com/libedi/super-type-token-sample/blob/master/demo-super-type-token/src/main/java/com/example/demo/Super.java)
+    - [Sub.java](https://github.com/libedi/super-type-token-sample/blob/master/demo-super-type-token/src/main/java/com/example/demo/Sub.java)
+    - [TypeSafeMap.java](https://github.com/libedi/super-type-token-sample/blob/master/demo-super-type-token/src/main/java/com/example/demo/TypeSafeMap.java)
 2. [Jackson TypeReference Example](https://github.com/libedi/super-type-token-sample/blob/master/demo-super-type-token/src/test/java/com/example/demo/JacksonTypeReferenceTest.java)
+    - [TestModel.java](https://github.com/libedi/super-type-token-sample/blob/master/demo-super-type-token/src/main/java/com/example/demo/TestModel.java)
 3. [Spring ParameterizedTypeReference Example](https://github.com/libedi/super-type-token-sample/blob/master/demo-super-type-token/src/test/java/com/example/demo/SpringParameterizedTypeReferenceTest.java)
+    - [TestApiController.java](https://github.com/libedi/super-type-token-sample/blob/master/demo-super-type-token/src/main/java/com/example/demo/TestApiController.java)
+    - [TestModel.java](https://github.com/libedi/super-type-token-sample/blob/master/demo-super-type-token/src/main/java/com/example/demo/TestModel.java)
     
 * Reference : 
   - [Neal Gafter on Super Type Tokens](http://gafter.blogspot.nl/2006/12/super-type-tokens.html)
